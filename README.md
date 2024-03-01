@@ -17,5 +17,5 @@ npm build
 ```  
 
 ## Images
-![](image/1.png)
-![](image/2.png)
+![](public/1.png)
+![](public/2.png)
