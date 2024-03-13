@@ -19,3 +19,7 @@ npm build
 ## Images
 ![](public/1.png)
 ![](public/2.png)
+
+
+## License
+This project is licensed under [GPL-3.0](https://raw.githubusercontent.com/Illumina/licenses/master/gpl-3.0.txt)
