@@ -1,18 +1,18 @@
+# Real Estate Website
+Welcome to our Real Estate Website! This project is built using React.js, providing a user-friendly interface to browse real estate listings.
+
+
 ## TO bulid and run this project Node & Vite should be install on your system
 
-## Install Dependencies
+### Installation
 ```bash
 npm install 
-```
-
-## Run
-
-```bash
 npm run dev
 ```
-## Build
 
-```bash
+### Build
+
+```bashz
 npm build 
 ```  
 
